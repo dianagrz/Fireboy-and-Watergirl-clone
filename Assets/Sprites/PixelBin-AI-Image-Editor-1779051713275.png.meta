@@ -1,0 +1,1356 @@
+fileFormatVersion: 2
+guid: 25c85dce9c54cc748a415ea6fa756ab4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5043426200281786263
+    second: PixelBin-AI-Image-Editor-1779051713275_0
+  - first:
+      213: -5058594921065482953
+    second: PixelBin-AI-Image-Editor-1779051713275_1
+  - first:
+      213: 7358079388184450033
+    second: PixelBin-AI-Image-Editor-1779051713275_2
+  - first:
+      213: -1575093319751200185
+    second: PixelBin-AI-Image-Editor-1779051713275_3
+  - first:
+      213: -3498198422588136845
+    second: PixelBin-AI-Image-Editor-1779051713275_4
+  - first:
+      213: -6794329029148334303
+    second: PixelBin-AI-Image-Editor-1779051713275_5
+  - first:
+      213: -8781035567513343298
+    second: PixelBin-AI-Image-Editor-1779051713275_6
+  - first:
+      213: -8711663512934733450
+    second: PixelBin-AI-Image-Editor-1779051713275_7
+  - first:
+      213: -6301612806508332178
+    second: PixelBin-AI-Image-Editor-1779051713275_8
+  - first:
+      213: -3094476409450296673
+    second: PixelBin-AI-Image-Editor-1779051713275_9
+  - first:
+      213: 2975135672304617044
+    second: PixelBin-AI-Image-Editor-1779051713275_10
+  - first:
+      213: -78954364295889515
+    second: PixelBin-AI-Image-Editor-1779051713275_11
+  - first:
+      213: -1226716773592144792
+    second: PixelBin-AI-Image-Editor-1779051713275_12
+  - first:
+      213: 3032008303058776909
+    second: PixelBin-AI-Image-Editor-1779051713275_13
+  - first:
+      213: 6558968325920413445
+    second: PixelBin-AI-Image-Editor-1779051713275_14
+  - first:
+      213: -2621746670094463797
+    second: PixelBin-AI-Image-Editor-1779051713275_15
+  - first:
+      213: -592110337329009742
+    second: PixelBin-AI-Image-Editor-1779051713275_16
+  - first:
+      213: -4242603692379858479
+    second: PixelBin-AI-Image-Editor-1779051713275_17
+  - first:
+      213: 5848588157348974833
+    second: PixelBin-AI-Image-Editor-1779051713275_18
+  - first:
+      213: -7522634819649950897
+    second: PixelBin-AI-Image-Editor-1779051713275_19
+  - first:
+      213: 2348809118762091911
+    second: PixelBin-AI-Image-Editor-1779051713275_20
+  - first:
+      213: -3670655961349904040
+    second: PixelBin-AI-Image-Editor-1779051713275_21
+  - first:
+      213: 3526662819724782861
+    second: PixelBin-AI-Image-Editor-1779051713275_22
+  - first:
+      213: 2936496922183746160
+    second: PixelBin-AI-Image-Editor-1779051713275_23
+  - first:
+      213: -6380212263941068266
+    second: PixelBin-AI-Image-Editor-1779051713275_24
+  - first:
+      213: 4233980488970099066
+    second: PixelBin-AI-Image-Editor-1779051713275_25
+  - first:
+      213: 3017909262068408995
+    second: PixelBin-AI-Image-Editor-1779051713275_26
+  - first:
+      213: -4030697910696167828
+    second: PixelBin-AI-Image-Editor-1779051713275_27
+  - first:
+      213: 6723765795890654834
+    second: PixelBin-AI-Image-Editor-1779051713275_28
+  - first:
+      213: 4298445204735360972
+    second: PixelBin-AI-Image-Editor-1779051713275_29
+  - first:
+      213: -717920725781155854
+    second: PixelBin-AI-Image-Editor-1779051713275_30
+  - first:
+      213: -4389813203299545741
+    second: PixelBin-AI-Image-Editor-1779051713275_31
+  - first:
+      213: -4938663524613236805
+    second: PixelBin-AI-Image-Editor-1779051713275_32
+  - first:
+      213: 7089428169347897983
+    second: PixelBin-AI-Image-Editor-1779051713275_33
+  - first:
+      213: -1003389581838437610
+    second: PixelBin-AI-Image-Editor-1779051713275_34
+  - first:
+      213: -8294313962188258565
+    second: PixelBin-AI-Image-Editor-1779051713275_35
+  - first:
+      213: 6142287534188952587
+    second: PixelBin-AI-Image-Editor-1779051713275_36
+  - first:
+      213: -7036066306633808807
+    second: PixelBin-AI-Image-Editor-1779051713275_37
+  - first:
+      213: -8047878384731646873
+    second: PixelBin-AI-Image-Editor-1779051713275_38
+  - first:
+      213: 882835430733628425
+    second: PixelBin-AI-Image-Editor-1779051713275_39
+  - first:
+      213: -524599718589317971
+    second: PixelBin-AI-Image-Editor-1779051713275_40
+  - first:
+      213: 6407344419135624331
+    second: PixelBin-AI-Image-Editor-1779051713275_41
+  - first:
+      213: -7869893505119787717
+    second: PixelBin-AI-Image-Editor-1779051713275_42
+  - first:
+      213: -1546211483548630546
+    second: PixelBin-AI-Image-Editor-1779051713275_43
+  - first:
+      213: -274938557698856643
+    second: PixelBin-AI-Image-Editor-1779051713275_44
+  - first:
+      213: 8897074247969526984
+    second: PixelBin-AI-Image-Editor-1779051713275_45
+  - first:
+      213: 2759461229063674582
+    second: PixelBin-AI-Image-Editor-1779051713275_46
+  - first:
+      213: -542598012023534271
+    second: PixelBin-AI-Image-Editor-1779051713275_47
+  - first:
+      213: -6011892347836914736
+    second: PixelBin-AI-Image-Editor-1779051713275_48
+  - first:
+      213: -8136141578049530268
+    second: PixelBin-AI-Image-Editor-1779051713275_49
+  - first:
+      213: 441764705795041442
+    second: PixelBin-AI-Image-Editor-1779051713275_50
+  - first:
+      213: -3709243190275623963
+    second: PixelBin-AI-Image-Editor-1779051713275_51
+  - first:
+      213: 3693988138409284303
+    second: PixelBin-AI-Image-Editor-1779051713275_52
+  - first:
+      213: 3912951945993026206
+    second: PixelBin-AI-Image-Editor-1779051713275_53
+  - first:
+      213: 5917355423038833083
+    second: PixelBin-AI-Image-Editor-1779051713275_54
+  - first:
+      213: 4499808886590594287
+    second: PixelBin-AI-Image-Editor-1779051713275_55
+  - first:
+      213: -6675711389511931826
+    second: PixelBin-AI-Image-Editor-1779051713275_56
+  - first:
+      213: 5871614903395421184
+    second: PixelBin-AI-Image-Editor-1779051713275_57
+  - first:
+      213: -3366994422342427592
+    second: PixelBin-AI-Image-Editor-1779051713275_58
+  - first:
+      213: 8625766837281425727
+    second: PixelBin-AI-Image-Editor-1779051713275_59
+  - first:
+      213: 4587594991813686061
+    second: PixelBin-AI-Image-Editor-1779051713275_60
+  - first:
+      213: -5741409891316220392
+    second: PixelBin-AI-Image-Editor-1779051713275_61
+  - first:
+      213: 5934854956854849241
+    second: PixelBin-AI-Image-Editor-1779051713275_62
+  - first:
+      213: -49357348147615703
+    second: PixelBin-AI-Image-Editor-1779051713275_63
+  - first:
+      213: 4330371905810793437
+    second: PixelBin-AI-Image-Editor-1779051713275_64
+  - first:
+      213: -5167237942990251293
+    second: PixelBin-AI-Image-Editor-1779051713275_65
+  - first:
+      213: -138685331320799805
+    second: PixelBin-AI-Image-Editor-1779051713275_66
+  - first:
+      213: 2253913488861417587
+    second: PixelBin-AI-Image-Editor-1779051713275_67
+  - first:
+      213: 1769993283816702838
+    second: PixelBin-AI-Image-Editor-1779051713275_68
+  - first:
+      213: -6117451048050542116
+    second: PixelBin-AI-Image-Editor-1779051713275_69
+  - first:
+      213: -1831621268647493744
+    second: PixelBin-AI-Image-Editor-1779051713275_70
+  - first:
+      213: -8622753451701479245
+    second: PixelBin-AI-Image-Editor-1779051713275_71
+  - first:
+      213: 1635069970586312153
+    second: PixelBin-AI-Image-Editor-1779051713275_72
+  - first:
+      213: -6067004645829868965
+    second: PixelBin-AI-Image-Editor-1779051713275_73
+  - first:
+      213: 47930793927556688
+    second: PixelBin-AI-Image-Editor-1779051713275_74
+  - first:
+      213: -8848594231553897998
+    second: PixelBin-AI-Image-Editor-1779051713275_75
+  - first:
+      213: 6748103246035541283
+    second: PixelBin-AI-Image-Editor-1779051713275_76
+  - first:
+      213: 4549769326025250370
+    second: PixelBin-AI-Image-Editor-1779051713275_77
+  - first:
+      213: -6139837128611427751
+    second: PixelBin-AI-Image-Editor-1779051713275_78
+  - first:
+      213: 4740082159072008032
+    second: PixelBin-AI-Image-Editor-1779051713275_79
+  - first:
+      213: -2454033725494656411
+    second: PixelBin-AI-Image-Editor-1779051713275_80
+  - first:
+      213: -1776635434089171121
+    second: PixelBin-AI-Image-Editor-1779051713275_81
+  - first:
+      213: 6055596538586030316
+    second: PixelBin-AI-Image-Editor-1779051713275_82
+  - first:
+      213: 6841399585173029455
+    second: PixelBin-AI-Image-Editor-1779051713275_83
+  - first:
+      213: 1327885606095191939
+    second: PixelBin-AI-Image-Editor-1779051713275_84
+  - first:
+      213: 5201101968350633392
+    second: PixelBin-AI-Image-Editor-1779051713275_85
+  - first:
+      213: -3239821354307073100
+    second: PixelBin-AI-Image-Editor-1779051713275_86
+  - first:
+      213: -8034922236663931242
+    second: PixelBin-AI-Image-Editor-1779051713275_87
+  - first:
+      213: 8167557417523500423
+    second: PixelBin-AI-Image-Editor-1779051713275_88
+  - first:
+      213: 6410497949745632406
+    second: PixelBin-AI-Image-Editor-1779051713275_89
+  - first:
+      213: 4153010041735419901
+    second: PixelBin-AI-Image-Editor-1779051713275_90
+  - first:
+      213: -2813165845328437346
+    second: PixelBin-AI-Image-Editor-1779051713275_91
+  - first:
+      213: -5689130840004186551
+    second: PixelBin-AI-Image-Editor-1779051713275_92
+  - first:
+      213: -7335495617401939186
+    second: PixelBin-AI-Image-Editor-1779051713275_93
+  - first:
+      213: 8262859720826671495
+    second: PixelBin-AI-Image-Editor-1779051713275_94
+  - first:
+      213: 3886228712960802231
+    second: PixelBin-AI-Image-Editor-1779051713275_95
+  - first:
+      213: 9004120262373588563
+    second: PixelBin-AI-Image-Editor-1779051713275_96
+  - first:
+      213: 3958284496132738486
+    second: PixelBin-AI-Image-Editor-1779051713275_97
+  - first:
+      213: -4383869450897103830
+    second: PixelBin-AI-Image-Editor-1779051713275_98
+  - first:
+      213: -810893820353795229
+    second: PixelBin-AI-Image-Editor-1779051713275_99
+  - first:
+      213: -8289754106434802772
+    second: PixelBin-AI-Image-Editor-1779051713275_100
+  - first:
+      213: 5292773287571564866
+    second: PixelBin-AI-Image-Editor-1779051713275_101
+  - first:
+      213: 433310104695335162
+    second: PixelBin-AI-Image-Editor-1779051713275_102
+  - first:
+      213: -6429073212028389239
+    second: PixelBin-AI-Image-Editor-1779051713275_103
+  - first:
+      213: 209740028554960139
+    second: PixelBin-AI-Image-Editor-1779051713275_104
+  - first:
+      213: 2217759364357645833
+    second: PixelBin-AI-Image-Editor-1779051713275_105
+  - first:
+      213: -9090919821062846757
+    second: PixelBin-AI-Image-Editor-1779051713275_106
+  - first:
+      213: -2909606936803648775
+    second: PixelBin-AI-Image-Editor-1779051713275_107
+  - first:
+      213: -7089234575522116109
+    second: PixelBin-AI-Image-Editor-1779051713275_108
+  - first:
+      213: 6977602220221260808
+    second: PixelBin-AI-Image-Editor-1779051713275_109
+  - first:
+      213: 7834999719447823316
+    second: PixelBin-AI-Image-Editor-1779051713275_110
+  - first:
+      213: -6778629110560710256
+    second: PixelBin-AI-Image-Editor-1779051713275_111
+  - first:
+      213: 5400516586642364517
+    second: PixelBin-AI-Image-Editor-1779051713275_112
+  - first:
+      213: -1655149289277320572
+    second: PixelBin-AI-Image-Editor-1779051713275_113
+  - first:
+      213: -3739784557623302821
+    second: PixelBin-AI-Image-Editor-1779051713275_114
+  - first:
+      213: 5492351785996370723
+    second: PixelBin-AI-Image-Editor-1779051713275_115
+  - first:
+      213: 2243997507568177277
+    second: PixelBin-AI-Image-Editor-1779051713275_116
+  - first:
+      213: -7647806634430159510
+    second: PixelBin-AI-Image-Editor-1779051713275_117
+  - first:
+      213: 8698458157114265867
+    second: PixelBin-AI-Image-Editor-1779051713275_118
+  - first:
+      213: -6161432836683900688
+    second: PixelBin-AI-Image-Editor-1779051713275_119
+  - first:
+      213: -8350642965887903503
+    second: PixelBin-AI-Image-Editor-1779051713275_120
+  - first:
+      213: -4296194357553878377
+    second: PixelBin-AI-Image-Editor-1779051713275_121
+  - first:
+      213: 878725643678619473
+    second: PixelBin-AI-Image-Editor-1779051713275_122
+  - first:
+      213: 7992849638864855111
+    second: PixelBin-AI-Image-Editor-1779051713275_123
+  - first:
+      213: -7798082366135517873
+    second: PixelBin-AI-Image-Editor-1779051713275_124
+  - first:
+      213: 6691182350392614883
+    second: PixelBin-AI-Image-Editor-1779051713275_125
+  - first:
+      213: 7300685567985121669
+    second: PixelBin-AI-Image-Editor-1779051713275_126
+  - first:
+      213: 3246229886680236096
+    second: PixelBin-AI-Image-Editor-1779051713275_127
+  - first:
+      213: 8217145246480540160
+    second: PixelBin-AI-Image-Editor-1779051713275_128
+  - first:
+      213: -3309202547024939270
+    second: PixelBin-AI-Image-Editor-1779051713275_129
+  - first:
+      213: 4329164288072624746
+    second: PixelBin-AI-Image-Editor-1779051713275_130
+  - first:
+      213: -1865473768400826609
+    second: PixelBin-AI-Image-Editor-1779051713275_131
+  - first:
+      213: -2540685700216128473
+    second: PixelBin-AI-Image-Editor-1779051713275_132
+  - first:
+      213: 1229155102551907513
+    second: PixelBin-AI-Image-Editor-1779051713275_133
+  - first:
+      213: 6829650381963765848
+    second: PixelBin-AI-Image-Editor-1779051713275_134
+  - first:
+      213: 4712637443545104093
+    second: PixelBin-AI-Image-Editor-1779051713275_135
+  - first:
+      213: 1020485696431495535
+    second: PixelBin-AI-Image-Editor-1779051713275_136
+  - first:
+      213: -7859886355011770594
+    second: PixelBin-AI-Image-Editor-1779051713275_137
+  - first:
+      213: -7900637632727428737
+    second: PixelBin-AI-Image-Editor-1779051713275_138
+  - first:
+      213: 2281159104677004881
+    second: PixelBin-AI-Image-Editor-1779051713275_139
+  - first:
+      213: 6664189776561468988
+    second: PixelBin-AI-Image-Editor-1779051713275_140
+  - first:
+      213: 5159864823939043040
+    second: PixelBin-AI-Image-Editor-1779051713275_141
+  - first:
+      213: 3670314606114146398
+    second: PixelBin-AI-Image-Editor-1779051713275_142
+  - first:
+      213: 5315185463785333218
+    second: PixelBin-AI-Image-Editor-1779051713275_143
+  - first:
+      213: 2309539393764482958
+    second: PixelBin-AI-Image-Editor-1779051713275_144
+  - first:
+      213: -2582058924141870764
+    second: PixelBin-AI-Image-Editor-1779051713275_145
+  - first:
+      213: -5553541419849223603
+    second: PixelBin-AI-Image-Editor-1779051713275_146
+  - first:
+      213: -5809655592811310211
+    second: PixelBin-AI-Image-Editor-1779051713275_147
+  - first:
+      213: 8645512649956886212
+    second: PixelBin-AI-Image-Editor-1779051713275_148
+  - first:
+      213: 8329649160158928439
+    second: PixelBin-AI-Image-Editor-1779051713275_149
+  - first:
+      213: 7384880090378066927
+    second: PixelBin-AI-Image-Editor-1779051713275_150
+  - first:
+      213: -249307232783163774
+    second: PixelBin-AI-Image-Editor-1779051713275_151
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PixelBin-AI-Image-Editor-1779051713275_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 928
+        width: 392
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797a1be6869ddf540800000000000000
+      internalID: 5043426200281786263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelBin-AI-Image-Editor-1779051713275_1
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 503
+        width: 490
+        height: 561
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735fb4b88b24cc9b0800000000000000
+      internalID: -5058594921065482953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelBin-AI-Image-Editor-1779051713275_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 488
+        width: 431
+        height: 574
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3726dc3a117e37fc0800000000000000
+      internalID: -3498198422588136845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelBin-AI-Image-Editor-1779051713275_5
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 795
+        width: 370
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1272d72feb1b5b1a0800000000000000
+      internalID: -6794329029148334303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelBin-AI-Image-Editor-1779051713275_6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 704
+        width: 370
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebaeb4edcae732680800000000000000
+      internalID: -8781035567513343298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelBin-AI-Image-Editor-1779051713275_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 617
+        width: 371
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6792bccf034f91780800000000000000
+      internalID: -8711663512934733450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelBin-AI-Image-Editor-1779051713275_8
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 526
+        width: 371
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bb4043a8c2c88a0800000000000000
+      internalID: -6301612806508332178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelBin-AI-Image-Editor-1779051713275_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 315
+        width: 306
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a83e0d9163e05d0800000000000000
+      internalID: -3094476409450296673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelBin-AI-Image-Editor-1779051713275_10
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 591
+        width: 340
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4564f4a812ec94920800000000000000
+      internalID: 2975135672304617044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelBin-AI-Image-Editor-1779051713275_14
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 521
+        width: 192
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507568701f2260b50800000000000000
+      internalID: 6558968325920413445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelBin-AI-Image-Editor-1779051713275_15
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 394
+        width: 305
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccc4fd4b4fad9bd0800000000000000
+      internalID: -2621746670094463797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelBin-AI-Image-Editor-1779051713275_16
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 367
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbeaab09c668c7f0800000000000000
+      internalID: -592110337329009742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelBin-AI-Image-Editor-1779051713275_17
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 368
+        width: 101
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d910f88b6e3f15c0800000000000000
+      internalID: -4242603692379858479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelBin-AI-Image-Editor-1779051713275_18
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 365
+        width: 99
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0975421fb5a2150800000000000000
+      internalID: 5848588157348974833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelBin-AI-Image-Editor-1779051713275_19
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 361
+        width: 99
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ba7c7fc7b3a9790800000000000000
+      internalID: -7522634819649950897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelBin-AI-Image-Editor-1779051713275_33
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 507
+        width: 263
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a11aecb55b26260800000000000000
+      internalID: 7089428169347897983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelBin-AI-Image-Editor-1779051713275_48
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 268
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3aa4313c7719ca0800000000000000
+      internalID: -6011892347836914736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelBin-AI-Image-Editor-1779051713275_49
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 268
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4665216875e961f80800000000000000
+      internalID: -8136141578049530268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelBin-AI-Image-Editor-1779051713275_50
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 267
+        width: 97
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8e73bc8a6712600800000000000000
+      internalID: 441764705795041442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelBin-AI-Image-Editor-1779051713275_51
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 267
+        width: 98
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3b51a88fe168cc0800000000000000
+      internalID: -3709243190275623963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelBin-AI-Image-Editor-1779051713275_77
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 167
+        width: 100
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24614b7a817042f30800000000000000
+      internalID: 4549769326025250370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelBin-AI-Image-Editor-1779051713275_78
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 167
+        width: 97
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a8c5a69aaeacaa0800000000000000
+      internalID: -6139837128611427751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelBin-AI-Image-Editor-1779051713275_79
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 168
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06757a11c9728c140800000000000000
+      internalID: 4740082159072008032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelBin-AI-Image-Editor-1779051713275_107
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 160
+        width: 302
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa5ecf18effe97d0800000000000000
+      internalID: -2909606936803648775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelBin-AI-Image-Editor-1779051713275_108
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 237
+        width: 304
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd4694c6bafd9d90800000000000000
+      internalID: -7089234575522116109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelBin-AI-Image-Editor-1779051713275_109
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 167
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804e348104c65d060800000000000000
+      internalID: 6977602220221260808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelBin-AI-Image-Editor-1779051713275_110
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 615
+        width: 387
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d309f4bbb28bbc60800000000000000
+      internalID: 7834999719447823316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelBin-AI-Image-Editor-1779051713275_111
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 524
+        width: 188
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09128e81db87de1a0800000000000000
+      internalID: -6778629110560710256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f481c5bd01d16cd42ae2ddfd007761af
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      PixelBin-AI-Image-Editor-1779051713275_0: 5043426200281786263
+      PixelBin-AI-Image-Editor-1779051713275_1: -5058594921065482953
+      PixelBin-AI-Image-Editor-1779051713275_10: 2975135672304617044
+      PixelBin-AI-Image-Editor-1779051713275_100: -8289754106434802772
+      PixelBin-AI-Image-Editor-1779051713275_101: 5292773287571564866
+      PixelBin-AI-Image-Editor-1779051713275_102: 433310104695335162
+      PixelBin-AI-Image-Editor-1779051713275_103: -6429073212028389239
+      PixelBin-AI-Image-Editor-1779051713275_104: 209740028554960139
+      PixelBin-AI-Image-Editor-1779051713275_105: 2217759364357645833
+      PixelBin-AI-Image-Editor-1779051713275_106: -9090919821062846757
+      PixelBin-AI-Image-Editor-1779051713275_107: -2909606936803648775
+      PixelBin-AI-Image-Editor-1779051713275_108: -7089234575522116109
+      PixelBin-AI-Image-Editor-1779051713275_109: 6977602220221260808
+      PixelBin-AI-Image-Editor-1779051713275_11: -78954364295889515
+      PixelBin-AI-Image-Editor-1779051713275_110: 7834999719447823316
+      PixelBin-AI-Image-Editor-1779051713275_111: -6778629110560710256
+      PixelBin-AI-Image-Editor-1779051713275_112: 5400516586642364517
+      PixelBin-AI-Image-Editor-1779051713275_113: -1655149289277320572
+      PixelBin-AI-Image-Editor-1779051713275_114: -3739784557623302821
+      PixelBin-AI-Image-Editor-1779051713275_115: 5492351785996370723
+      PixelBin-AI-Image-Editor-1779051713275_116: 2243997507568177277
+      PixelBin-AI-Image-Editor-1779051713275_117: -7647806634430159510
+      PixelBin-AI-Image-Editor-1779051713275_118: 8698458157114265867
+      PixelBin-AI-Image-Editor-1779051713275_119: -6161432836683900688
+      PixelBin-AI-Image-Editor-1779051713275_12: -1226716773592144792
+      PixelBin-AI-Image-Editor-1779051713275_120: -8350642965887903503
+      PixelBin-AI-Image-Editor-1779051713275_121: -4296194357553878377
+      PixelBin-AI-Image-Editor-1779051713275_122: 878725643678619473
+      PixelBin-AI-Image-Editor-1779051713275_123: 7992849638864855111
+      PixelBin-AI-Image-Editor-1779051713275_124: -7798082366135517873
+      PixelBin-AI-Image-Editor-1779051713275_125: 6691182350392614883
+      PixelBin-AI-Image-Editor-1779051713275_126: 7300685567985121669
+      PixelBin-AI-Image-Editor-1779051713275_127: 3246229886680236096
+      PixelBin-AI-Image-Editor-1779051713275_128: 8217145246480540160
+      PixelBin-AI-Image-Editor-1779051713275_129: -3309202547024939270
+      PixelBin-AI-Image-Editor-1779051713275_13: 3032008303058776909
+      PixelBin-AI-Image-Editor-1779051713275_130: 4329164288072624746
+      PixelBin-AI-Image-Editor-1779051713275_131: -1865473768400826609
+      PixelBin-AI-Image-Editor-1779051713275_132: -2540685700216128473
+      PixelBin-AI-Image-Editor-1779051713275_133: 1229155102551907513
+      PixelBin-AI-Image-Editor-1779051713275_134: 6829650381963765848
+      PixelBin-AI-Image-Editor-1779051713275_135: 4712637443545104093
+      PixelBin-AI-Image-Editor-1779051713275_136: 1020485696431495535
+      PixelBin-AI-Image-Editor-1779051713275_137: -7859886355011770594
+      PixelBin-AI-Image-Editor-1779051713275_138: -7900637632727428737
+      PixelBin-AI-Image-Editor-1779051713275_139: 2281159104677004881
+      PixelBin-AI-Image-Editor-1779051713275_14: 6558968325920413445
+      PixelBin-AI-Image-Editor-1779051713275_140: 6664189776561468988
+      PixelBin-AI-Image-Editor-1779051713275_141: 5159864823939043040
+      PixelBin-AI-Image-Editor-1779051713275_142: 3670314606114146398
+      PixelBin-AI-Image-Editor-1779051713275_143: 5315185463785333218
+      PixelBin-AI-Image-Editor-1779051713275_144: 2309539393764482958
+      PixelBin-AI-Image-Editor-1779051713275_145: -2582058924141870764
+      PixelBin-AI-Image-Editor-1779051713275_146: -5553541419849223603
+      PixelBin-AI-Image-Editor-1779051713275_147: -5809655592811310211
+      PixelBin-AI-Image-Editor-1779051713275_148: 8645512649956886212
+      PixelBin-AI-Image-Editor-1779051713275_149: 8329649160158928439
+      PixelBin-AI-Image-Editor-1779051713275_15: -2621746670094463797
+      PixelBin-AI-Image-Editor-1779051713275_150: 7384880090378066927
+      PixelBin-AI-Image-Editor-1779051713275_151: -249307232783163774
+      PixelBin-AI-Image-Editor-1779051713275_16: -592110337329009742
+      PixelBin-AI-Image-Editor-1779051713275_17: -4242603692379858479
+      PixelBin-AI-Image-Editor-1779051713275_18: 5848588157348974833
+      PixelBin-AI-Image-Editor-1779051713275_19: -7522634819649950897
+      PixelBin-AI-Image-Editor-1779051713275_2: 7358079388184450033
+      PixelBin-AI-Image-Editor-1779051713275_20: 2348809118762091911
+      PixelBin-AI-Image-Editor-1779051713275_21: -3670655961349904040
+      PixelBin-AI-Image-Editor-1779051713275_22: 3526662819724782861
+      PixelBin-AI-Image-Editor-1779051713275_23: 2936496922183746160
+      PixelBin-AI-Image-Editor-1779051713275_24: -6380212263941068266
+      PixelBin-AI-Image-Editor-1779051713275_25: 4233980488970099066
+      PixelBin-AI-Image-Editor-1779051713275_26: 3017909262068408995
+      PixelBin-AI-Image-Editor-1779051713275_27: -4030697910696167828
+      PixelBin-AI-Image-Editor-1779051713275_28: 6723765795890654834
+      PixelBin-AI-Image-Editor-1779051713275_29: 4298445204735360972
+      PixelBin-AI-Image-Editor-1779051713275_3: -1575093319751200185
+      PixelBin-AI-Image-Editor-1779051713275_30: -717920725781155854
+      PixelBin-AI-Image-Editor-1779051713275_31: -4389813203299545741
+      PixelBin-AI-Image-Editor-1779051713275_32: -4938663524613236805
+      PixelBin-AI-Image-Editor-1779051713275_33: 7089428169347897983
+      PixelBin-AI-Image-Editor-1779051713275_34: -1003389581838437610
+      PixelBin-AI-Image-Editor-1779051713275_35: -8294313962188258565
+      PixelBin-AI-Image-Editor-1779051713275_36: 6142287534188952587
+      PixelBin-AI-Image-Editor-1779051713275_37: -7036066306633808807
+      PixelBin-AI-Image-Editor-1779051713275_38: -8047878384731646873
+      PixelBin-AI-Image-Editor-1779051713275_39: 882835430733628425
+      PixelBin-AI-Image-Editor-1779051713275_4: -3498198422588136845
+      PixelBin-AI-Image-Editor-1779051713275_40: -524599718589317971
+      PixelBin-AI-Image-Editor-1779051713275_41: 6407344419135624331
+      PixelBin-AI-Image-Editor-1779051713275_42: -7869893505119787717
+      PixelBin-AI-Image-Editor-1779051713275_43: -1546211483548630546
+      PixelBin-AI-Image-Editor-1779051713275_44: -274938557698856643
+      PixelBin-AI-Image-Editor-1779051713275_45: 8897074247969526984
+      PixelBin-AI-Image-Editor-1779051713275_46: 2759461229063674582
+      PixelBin-AI-Image-Editor-1779051713275_47: -542598012023534271
+      PixelBin-AI-Image-Editor-1779051713275_48: -6011892347836914736
+      PixelBin-AI-Image-Editor-1779051713275_49: -8136141578049530268
+      PixelBin-AI-Image-Editor-1779051713275_5: -6794329029148334303
+      PixelBin-AI-Image-Editor-1779051713275_50: 441764705795041442
+      PixelBin-AI-Image-Editor-1779051713275_51: -3709243190275623963
+      PixelBin-AI-Image-Editor-1779051713275_52: 3693988138409284303
+      PixelBin-AI-Image-Editor-1779051713275_53: 3912951945993026206
+      PixelBin-AI-Image-Editor-1779051713275_54: 5917355423038833083
+      PixelBin-AI-Image-Editor-1779051713275_55: 4499808886590594287
+      PixelBin-AI-Image-Editor-1779051713275_56: -6675711389511931826
+      PixelBin-AI-Image-Editor-1779051713275_57: 5871614903395421184
+      PixelBin-AI-Image-Editor-1779051713275_58: -3366994422342427592
+      PixelBin-AI-Image-Editor-1779051713275_59: 8625766837281425727
+      PixelBin-AI-Image-Editor-1779051713275_6: -8781035567513343298
+      PixelBin-AI-Image-Editor-1779051713275_60: 4587594991813686061
+      PixelBin-AI-Image-Editor-1779051713275_61: -5741409891316220392
+      PixelBin-AI-Image-Editor-1779051713275_62: 5934854956854849241
+      PixelBin-AI-Image-Editor-1779051713275_63: -49357348147615703
+      PixelBin-AI-Image-Editor-1779051713275_64: 4330371905810793437
+      PixelBin-AI-Image-Editor-1779051713275_65: -5167237942990251293
+      PixelBin-AI-Image-Editor-1779051713275_66: -138685331320799805
+      PixelBin-AI-Image-Editor-1779051713275_67: 2253913488861417587
+      PixelBin-AI-Image-Editor-1779051713275_68: 1769993283816702838
+      PixelBin-AI-Image-Editor-1779051713275_69: -6117451048050542116
+      PixelBin-AI-Image-Editor-1779051713275_7: -8711663512934733450
+      PixelBin-AI-Image-Editor-1779051713275_70: -1831621268647493744
+      PixelBin-AI-Image-Editor-1779051713275_71: -8622753451701479245
+      PixelBin-AI-Image-Editor-1779051713275_72: 1635069970586312153
+      PixelBin-AI-Image-Editor-1779051713275_73: -6067004645829868965
+      PixelBin-AI-Image-Editor-1779051713275_74: 47930793927556688
+      PixelBin-AI-Image-Editor-1779051713275_75: -8848594231553897998
+      PixelBin-AI-Image-Editor-1779051713275_76: 6748103246035541283
+      PixelBin-AI-Image-Editor-1779051713275_77: 4549769326025250370
+      PixelBin-AI-Image-Editor-1779051713275_78: -6139837128611427751
+      PixelBin-AI-Image-Editor-1779051713275_79: 4740082159072008032
+      PixelBin-AI-Image-Editor-1779051713275_8: -6301612806508332178
+      PixelBin-AI-Image-Editor-1779051713275_80: -2454033725494656411
+      PixelBin-AI-Image-Editor-1779051713275_81: -1776635434089171121
+      PixelBin-AI-Image-Editor-1779051713275_82: 6055596538586030316
+      PixelBin-AI-Image-Editor-1779051713275_83: 6841399585173029455
+      PixelBin-AI-Image-Editor-1779051713275_84: 1327885606095191939
+      PixelBin-AI-Image-Editor-1779051713275_85: 5201101968350633392
+      PixelBin-AI-Image-Editor-1779051713275_86: -3239821354307073100
+      PixelBin-AI-Image-Editor-1779051713275_87: -8034922236663931242
+      PixelBin-AI-Image-Editor-1779051713275_88: 8167557417523500423
+      PixelBin-AI-Image-Editor-1779051713275_89: 6410497949745632406
+      PixelBin-AI-Image-Editor-1779051713275_9: -3094476409450296673
+      PixelBin-AI-Image-Editor-1779051713275_90: 4153010041735419901
+      PixelBin-AI-Image-Editor-1779051713275_91: -2813165845328437346
+      PixelBin-AI-Image-Editor-1779051713275_92: -5689130840004186551
+      PixelBin-AI-Image-Editor-1779051713275_93: -7335495617401939186
+      PixelBin-AI-Image-Editor-1779051713275_94: 8262859720826671495
+      PixelBin-AI-Image-Editor-1779051713275_95: 3886228712960802231
+      PixelBin-AI-Image-Editor-1779051713275_96: 9004120262373588563
+      PixelBin-AI-Image-Editor-1779051713275_97: 3958284496132738486
+      PixelBin-AI-Image-Editor-1779051713275_98: -4383869450897103830
+      PixelBin-AI-Image-Editor-1779051713275_99: -810893820353795229
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
